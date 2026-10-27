@@ -1,0 +1,4 @@
+Gene symbol: CASQ2
+NCBI Gene ID: 845
+Official name: calsequestrin 2
+Chromosome: 1
