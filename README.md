@@ -37,8 +37,8 @@ R.version.string, from `R.version.string`] with packages rentrez and ggplot2. Al
 **Errors corrected:**
 1. When creating the project folder in Command Prompt, my first command block was pasted as a single line without line breaks, which gave "The system cannot find the path specified." I reran the commands one at a time. Because `Documents` was not the right location on my computer, I created the project in my user folder instead (`C:\Users\tacan\Muscle_Contractility_CASQ2`) and confirmed the contents with `dir`.
 2. The folder was not in Documents or Quick access in File Explorer, so I located it by pasting its full path into the File Explorer address bar.
-
-**(d) Results
+ 
+## (d) Results
 
 - Gene: calsequestrin 2, chromosome 1 (Specifically at location 1p13.1)
 - NCBI Gene ID: 845
